@@ -1,0 +1,23 @@
+@media screen and (max-width:489px) {
+    .text h1{
+        font-size: 1.9rem;
+    }
+    .text h3{
+        font-size: 1rem;
+    }
+    .numBox{
+        padding: 0.4rem;
+    }
+    .numBox div{
+        height: 2rem;
+        width: 3rem;
+    }
+    .numBox p {
+        font-size: 0.8rem;
+    }
+    .numBox div span{
+        font-size: 1.3rem;
+    }
+    
+}
+
